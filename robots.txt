@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://fahadmir.com/sitemap.xml
+Host: https://fahadmir.com
